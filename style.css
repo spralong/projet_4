@@ -7,6 +7,45 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* Ajout de css perso */
+
+
+
+.citation{
+    padding: 5px 20px 5px 20px;
+    font-size: 20px;
+    color: #333333!important;
+    font-style: italic;
+    font-family: 'Helvetica';
+}
+
+.texte-modif{
+    padding: 20px;
+    font-size: 20px;
+    color: #333333!important;
+    font-family: 'Helvetica';
+}
+
+.texte-modif-1{
+    font-size: 25px;
+    color: #333333!important;
+    font-family: 'Helvetica';
+}
+
+.citation-auteur{
+    font-size: 20px;
+    color: #333333!important;
+}
+
+.footer-link{
+    color: white;
+    padding-top: 5px;
+    font-size: 12px;
+}
+
+/* Fin ajout de css perso  */
+
+
 a,
 button {
     transition: all .3s ease-in-out;
