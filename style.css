@@ -38,9 +38,24 @@ body {
 }
 
 .footer-link{
-    color: white;
     padding-top: 5px;
     font-size: 12px;
+}
+
+.black{
+    color: #575757;
+}
+
+.brown{
+    color: #A35E3E;
+}
+
+.btn-modif{
+    background: #A35E3E;
+}
+
+.btn-modif:hover{
+    filter: brightness(1.20);
 }
 
 /* Fin ajout de css perso  */
