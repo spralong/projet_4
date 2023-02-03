@@ -9,7 +9,9 @@ body {
 
 /* Ajout de css perso */
 
-
+.logo{
+    width: 150px;
+}
 
 .citation{
     padding: 5px 20px 5px 20px;
@@ -43,7 +45,7 @@ body {
 }
 
 .black{
-    color: #575757;
+    color: #303030!important;
 }
 
 .brown{
@@ -357,6 +359,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
+    min-height: 40px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -864,19 +867,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img.compress/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img.compress/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img.compress/agence-la-panthere.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img.compress/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
