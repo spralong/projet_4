@@ -11,6 +11,7 @@ body {
 
 .logo{
     width: 150px;
+    height: auto;
 }
 
 .citation{
@@ -798,6 +799,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
+    height: auto;
 }
 
 .portfolio-row {
