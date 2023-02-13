@@ -147,7 +147,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img.compress_2/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -1082,6 +1082,9 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .social{
+        max-width: 100px;
     }
 }
 
