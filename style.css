@@ -11,7 +11,7 @@ body {
 
 .logo{
     width: 150px;
-    height: auto;
+    height: 150px;
 }
 
 .citation{
@@ -359,8 +359,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
-    min-height: 40px;
+    width: 215px;
+    height: 45px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -759,6 +759,8 @@ p {
 
 .social {
     max-width: 400px;
+    min-height: 50px;
+    display: block;
     margin: auto auto auto auto;
 }
 
